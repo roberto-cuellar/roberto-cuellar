@@ -6,7 +6,7 @@
 
   I want to collaborate with a nice company that allows me to get started, contribute and learn a lot with them.
   
-  **I'm looking for an opportunity to demonstrate my skills, if you know of any company that requires a Junior Developer for their team, please let me know. Thank you.**
+  **I'm looking for an opportunity to demonstrate my skills, if you know any company that requires a Junior Developer for their team, please let me know. Thank you.**
   
 ## How to reach me: 
   > EMAIL: **lozano.roberto.2018@gmail.com** <br>
