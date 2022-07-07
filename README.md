@@ -18,8 +18,8 @@
   [**Mapas App**](https://famous-bublanina-3a397f.netlify.app)<br>
   [**Gifs App**](https://graceful-dodol-b2eb6d.netlify.app/)<br>
   [**Paises App**](https://celebrated-rolypoly-d21d5c.netlify.app/)<br>
-  [**Blog Difractivo**](http://tesis-fisica-unipamplona.s3-website-us-east-1.<br>amazonaws.com/)
-  [**Kanban App**](http://kanbanapp-roberto-cuellar.s3-website-us-east-1.amazonaws.<br>com/)
+  [**Blog Difractivo**](http://tesis-fisica-unipamplona.s3-website-us-east-1.<br>amazonaws.com/)<br>
+  [**Kanban App**](http://kanbanapp-roberto-cuellar.s3-website-us-east-1.amazonaws.<br>com/)<br>
   [**Single Page App**](http://spa-roberto-cuellar-2022.s3-website-us-east-1.amazonaws.com/)<br>
   [**Gif Expert App**](http://robertocuellarreact.s3-website-us-east-1.amazonaws.com/)<br>
   
