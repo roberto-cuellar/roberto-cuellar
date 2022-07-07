@@ -10,7 +10,7 @@
   
 ## How to reach me: 
   > EMAIL: **lozano.roberto.2018@gmail.com**
-  > [**LINKEDIN**](https://www.linkedin.com/in/roberto-cuellar/**)
+  > LINKEDIN: [**Roberto Cuellar**](https://www.linkedin.com/in/roberto-cuellar/**)
   
 ## [Roberto Cuellar](www.roberto-cuellar.com) 
   My portfolio is currently under construction, but this is some of the most recent apps that i have worked:
