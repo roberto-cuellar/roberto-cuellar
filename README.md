@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning Angular, React, TypeScript, Node, mongoDB and others... 
 
-  I want to collaborate with a nice company that allows me to get started, contribute and learn a lot with they.
+  I want to collaborate with a nice company that allows me to get started, contribute and learn a lot with them.
   
   **I'm looking for an opportunity to demonstrate my skills, if you know of any company that requires a Junior Developer for their team, please let me know. Thank you.**
   
