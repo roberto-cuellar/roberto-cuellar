@@ -23,13 +23,14 @@
   [**Single Page App**](http://spa-roberto-cuellar-2022.s3-website-us-east-1.amazonaws.com/)<br>
   [**Gif Expert App**](http://robertocuellarreact.s3-website-us-east-1.amazonaws.com/)<br>
   
-  **Langueages and Tools**
+  **Languages and Tools**
   <br>
   <img src="https://img.icons8.com/color/192/typescript.png" alt="typescript" width="40" height="40" />
   <img src="https://img.icons8.com/color/192/angularjs.png" alt="angular" width="40" height="40" />
   <img src="https://img.icons8.com/color/192/react-native.png" alt="react" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/192/nodejs.png" alt="node" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/192/mongodb.png" alt="mongodb" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/192/git.png" alt="git" width="40" height="40" />
   
   Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
