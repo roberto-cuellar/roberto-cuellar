@@ -15,13 +15,13 @@
 ## [www.roberto-cuellar.com](www.roberto-cuellar.com) 
   My portfolio web page is currently under construction, but this is some of the most recent apps in which i have worked:
   
-  [**Mapas App**](https://famous-bublanina-3a397f.netlify.app)<br>
-  [**Gifs App**](https://graceful-dodol-b2eb6d.netlify.app/)<br>
-  [**Paises App**](https://celebrated-rolypoly-d21d5c.netlify.app/)<br>
-  [**Blog Difractivo**](http://tesis-fisica-unipamplona.s3-website-us-east-1.<br>amazonaws.com/)<br>
-  [**Kanban App**](http://kanbanapp-roberto-cuellar.s3-website-us-east-1.amazonaws.<br>com/)<br>
-  [**Single Page App**](http://spa-roberto-cuellar-2022.s3-website-us-east-1.amazonaws.com/)<br>
-  [**Gif Expert App**](http://robertocuellarreact.s3-website-us-east-1.amazonaws.com/)<br>
+  [**Mapas App**](https://famous-bublanina-3a397f.netlify.app) (** *Angular, Bootstrap* **)<br>
+  [**Gifs App**](https://graceful-dodol-b2eb6d.netlify.app/)(** *Angular, Bootstrap* **)<br>
+  [**Paises App**](https://celebrated-rolypoly-d21d5c.netlify.app/)(** *Angular* **)<br>
+  [**Blog Difractivo**](http://tesis-fisica-unipamplona.s3-website-us-east-1.<br>amazonaws.com/)(** *React, Node, Mongo, AWS, Material UI* **)<br>
+  [**Kanban App**](http://kanbanapp-roberto-cuellar.s3-website-us-east-1.amazonaws.<br>com/) (** *React, Material UI, Drag and Drop, theme selector* **)<br>
+  [**Single Page App**](http://spa-roberto-cuellar-2022.s3-website-us-east-1.amazonaws.com/)(** *React, Material UI,Theme Selector* **)<br>
+  [**Gif Expert App**](http://robertocuellarreact.s3-website-us-east-1.amazonaws.com/ (** *React, Bootstrap* **)<br>
   
   **Languages and Tools**
   <br>
