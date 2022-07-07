@@ -34,6 +34,10 @@
   <img src="https://img.icons8.com/color/192/git.png" alt="git" width="40" height="40" />
   <img src="icons8-python.gif" alt="python" width="40" height="40" />
   <img src="https://img.icons8.com/fluency/192/matlab.png" alt="matlab" width="40" height="40" />
+  <img src="https://img.icons8.com/color/192/material-ui.png" alt="material" width="40" height="40" />
+  <img src="https://img.icons8.com/color/192/bootstrap.png" alt="bootstrap" width="40" height="40" />
+  <img src="https://img.icons8.com/color/192/html-5--v1.png" alt="html5" width="40" height="40" />
+  <img src="https://img.icons8.com/color/192/npm.png" alt="npm" width="40" height="40" />
   
   
   
