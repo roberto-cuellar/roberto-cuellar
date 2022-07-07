@@ -24,4 +24,4 @@
   [**Gif Expert App**](http://robertocuellarreact.s3-website-us-east-1.amazonaws.com/)<br>
   
   **Langueages and Tools**
-  <img src="https://img.icons8.com/ios-filled/200/typescript.png" alt="typescripT" width="40" height="40" />
+  <img src="https://img.icons8.com/color/192/typescript.png" alt="typescripT" width="40" height="40" /> <br>
