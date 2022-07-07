@@ -31,6 +31,8 @@
   <img src="https://img.icons8.com/color/192/nodejs.png" alt="node" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/192/mongodb.png" alt="mongodb" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/192/git.png" alt="git" width="40" height="40" />
+  <img src="icons8-javascript.gif" alt="javascript" width="40" height="40" />
+  
   
   Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
