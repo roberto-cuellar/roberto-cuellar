@@ -9,7 +9,7 @@
   I'm looking for an opportunity to demonstrate my skills, if you know of any company that requires a Junior Developer for their team, please let me know. Thank you.
   
 ## How to reach me: 
-  > EMAIL: **lozano.roberto.2018@gmail.com**
+  > EMAIL: **lozano.roberto.2018@gmail.com** <br>
   > LINKEDIN: [**Roberto Cuellar**](https://www.linkedin.com/in/roberto-cuellar/**)
   
 ## [Roberto Cuellar](www.roberto-cuellar.com) 
