@@ -1,5 +1,5 @@
 ### Hi there 👋, I', ¡Roberto Cuellar 🤓!
-
+---
  🔭 I’m currently working on a few projects as a Freelancer.
 
  🌱 I’m currently learning Angular, React, TypeScript, Node. 
@@ -8,11 +8,11 @@
   
   I'm looking for an opportunity to demonstrate my skills, if you know of any company that requires a Junior Developer for their team, please let me know. Thank you.
   
-  How to reach me: 
+## How to reach me: 
   > EMAIL: **lozano.roberto.2018@gmail.com**
   > [**LINKEDIN**](https://www.linkedin.com/in/roberto-cuellar/**)
   
-  [Roberto Cuellar](www.roberto-cuellar.com) 
+## [Roberto Cuellar](www.roberto-cuellar.com) 
   My portfolio is currently under construction, but this is some of the most recent apps that i have worked:
   
   [**Mapas App**](https://famous-bublanina-3a397f.netlify.app)
