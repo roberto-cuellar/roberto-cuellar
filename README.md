@@ -2,7 +2,7 @@
 ---
  🔭 I’m currently working on a few projects as a Freelancer.
 
- 🌱 I’m currently learning Angular, React, TypeScript, Node, mongoDB and others... 
+ 🌱 I’m currently learning Angular, React, TypeScript, Node, mongoDB, QA Automation with Selenium+ WebDriver in Python and others... 
 
   I want to collaborate with a nice company that allows me to get started, contribute and learn a lot with them.
   
@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/192/bootstrap.png" alt="bootstrap" width="40" height="40" />
   <img src="https://img.icons8.com/color/192/html-5--v1.png" alt="html5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/192/npm.png" alt="npm" width="40" height="40" />
-  
+  <img src="https://img.icons8.com/color/192/selenium-test-automation.png" alt="selenium" width="40" height="40" />  
   
   
   Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
