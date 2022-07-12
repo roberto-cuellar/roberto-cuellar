@@ -12,7 +12,7 @@
   > EMAIL: **lozano.roberto.2018@gmail.com** <br>
    LINKEDIN: [**Roberto Cuellar**](https://www.linkedin.com/in/roberto-cuellar/**)
   
-## [www.roberto-cuellar.com](www.roberto-cuellar.com) 
+## [www.roberto-cuellar.com](http://www.roberto-cuellar.com/) 
   My portfolio web page is currently under construction, but this is some of the most recent apps in which i have worked:
   
   [**Mapas App**](https://famous-bublanina-3a397f.netlify.app)  (***Angular, Bootstrap***)<br>
