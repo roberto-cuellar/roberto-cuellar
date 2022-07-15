@@ -3,10 +3,6 @@
  🔭 I’m currently working on a few projects as a Freelancer.
 
  🌱 I’m currently learning Angular, React, TypeScript, Node, mongoDB, QA Automation with Selenium+ WebDriver in Python and others... 
-
-  I want to collaborate with a nice company that allows me to get started, contribute and learn a lot with them.
-  
-  **I'm looking for an opportunity to test my skills, if you know any company that requires a Junior Developer for their team, please let me know. Thank you.**
   
 ## How to reach me: 
   > EMAIL: **lozano.roberto.2018@gmail.com** <br>
