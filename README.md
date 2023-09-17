@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm, ¡Roberto Cuellar 🤓!
 ---
- 🔭 I’m currently working in Imagine Apps.
 
  🌱 I’m in constant learning: Angular, TypeScript, Node, mongoDB, Automation with Selenium with Python and others... 
   
