@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm, ¡Roberto Cuellar 🤓!
 ---
 Take a look to my portfalio (in progress)
-Portfolio: [**Roberto Cuellar**](https://antonylozano.netlify.app/discography**)
+Portfolio: [**Roberto Cuellar**](https://antonylozano.netlify.app/discography)
 
   **Languages and Tools**
   <br>
