@@ -1,12 +1,8 @@
 ### Hi there 👋, I'm, ¡Roberto Cuellar 🤓!
 ---
+Take a look to my portfalio (in progress)
+Portfolio: [**Roberto Cuellar**](https://antonylozano.netlify.app/discography**)
 
- 🌱 I’m in constant learning: Angular, TypeScript, Node, mongoDB, Automation with Selenium with Python and others... 
-  
-## How to reach me: 
-  > EMAIL: **lozano.roberto.2018@gmail.com** <br>
-   LINKEDIN: [**Roberto Cuellar**](https://www.linkedin.com/in/roberto-cuellar/**)
-  
   **Languages and Tools**
   <br>
   <img src="icons8-javascript.gif" alt="javascript" width="40" height="40" >
