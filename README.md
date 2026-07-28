@@ -24,4 +24,9 @@ Portfolio: [**Roberto Cuellar**](https://antonylozano.netlify.app/discography)
   Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 Thanks For Visit my Git Hub Page. <br>
-Peace and Code! ♥
+Peace and Code. 
+
+Here some other places!
+ [**Spoty**](https://open.spotify.com/intl-es/artist/6xeOtmU2pD929gXGpyVglz)
+ [**SoundCloud**](https://antonylozano.netlify.app/discography](https://soundcloud.com/roberto-cuellar-75607317))
+ [**Youtube**](https://antonylozano.netlify.app/discography](https://www.youtube.com/@antonylozano69))
